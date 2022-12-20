@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/famous-names-game/static/css/main.073c9b0a.css",
+    "main.js": "/famous-names-game/static/js/main.83ca6c2c.js",
+    "static/js/787.0419d806.chunk.js": "/famous-names-game/static/js/787.0419d806.chunk.js",
+    "index.html": "/famous-names-game/index.html",
+    "main.073c9b0a.css.map": "/famous-names-game/static/css/main.073c9b0a.css.map",
+    "main.83ca6c2c.js.map": "/famous-names-game/static/js/main.83ca6c2c.js.map",
+    "787.0419d806.chunk.js.map": "/famous-names-game/static/js/787.0419d806.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.83ca6c2c.js"
+  ]
+}
